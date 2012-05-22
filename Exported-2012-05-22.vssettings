@@ -1,0 +1,410 @@
+<UserSettings>
+	<ApplicationIdentity version="10.0"/>
+	<ToolsOptions>
+		<ToolsOptionsCategory name="Environment" RegisteredName="Environment"/>
+	</ToolsOptions>
+	<Category name="Database Tools" RegisteredName="Database Tools"/>
+	<Category name="Environment_Group" RegisteredName="Environment_Group">
+		<Category name="Environment_KeyBindings" Category="{F09035F1-80D2-4312-8EC4-4D354A4BCB4C}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_KeyBindings" PackageName="Visual Studio Environment Package">
+			<Version>10.0.0.0</Version>
+			<KeyboardShortcuts>
+				<ScopeDefinitions>
+					<Scope Name="VC Dialog Editor" ID="{543E0C02-8C85-4E43-933A-5EF320E3431F}"/>
+					<Scope Name="Data Generator" ID="{D3936010-2B3A-4B8E-82D1-F4DCE3B5F898}"/>
+					<Scope Name="XML (Text) Editor" ID="{FA3CD31E-987B-443A-9B81-186104E8DAC1}"/>
+					<Scope Name="Log Windows (AnkhSVN)" ID="{0D2CA125-6CDF-407A-9C03-E8427E27F34D}"/>
+					<Scope Name="Text Editor" ID="{8B382828-6202-11D1-8870-0000F87579D2}"/>
+					<Scope Name="Work Item Results View" ID="{7026002D-01F6-44E7-95CF-A896C00DA3F8}"/>
+					<Scope Name="ADO.NET Entity Data Model Designer" ID="{C99AEA30-8E36-4515-B76F-496F5A48A6AA}"/>
+					<Scope Name="Query Designer" ID="{B2C40B32-3A37-4CA9-97B9-FA44248B69FF}"/>
+					<Scope Name="WebBrowser" ID="{E8B06F41-6D01-11D2-AA7D-00C04F990343}"/>
+					<Scope Name="DataSet Editor" ID="{B334A759-F450-40A5-BE2A-65937BCD5415}"/>
+					<Scope Name="F# Interactive" ID="{DEE22B65-9761-4A26-8FB2-759B971D6DFC}"/>
+					<Scope Name="View Designer" ID="{B968E165-98E0-41F0-8FBE-A8ED1D246A90}"/>
+					<Scope Name="Global" ID="{5EFC7975-14BC-11CF-9B2B-00AA00573819}"/>
+					<Scope Name="Class Diagram" ID="{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}"/>
+					<Scope Name="UML Activity Diagram" ID="{950C3878-B510-4BC5-9051-42798A870364}"/>
+					<Scope Name="Work Item Query View" ID="{B6303490-B828-410C-9216-AE727D0E282D}"/>
+					<Scope Name="Team Foundation Build Detail Editor" ID="{86306A97-84F2-4F5A-889B-1318501AEB5F}"/>
+					<Scope Name="CSS Source Editor" ID="{A764E89A-518D-11D2-9A89-00C04F79EFC3}"/>
+					<Scope Name="Database Designer" ID="{CFF78A9B-78A3-45A3-9142-0267AFC261FA}"/>
+					<Scope Name="Work Item Editor" ID="{40A91D9D-8076-4D28-87C5-5AF9F0ACFE0F}"/>
+					<Scope Name="Sequence Diagram" ID="{5028BC9F-844B-4C51-A624-0005945D14AE}"/>
+					<Scope Name="VC String Editor" ID="{58442DA9-10DA-4AA9-A2AF-96E4D481379B}"/>
+					<Scope Name="Settings Designer" ID="{515231AD-C9DC-4AA3-808F-E1B65E72081C}"/>
+					<Scope Name="VisualStudio" ID="{B465B5AD-8799-4507-B90A-EE29ACF36AF9}"/>
+					<Scope Name="Windows Forms Designer" ID="{BA09E2AF-9DF2-4068-B2F0-4C7E5CC19E2F}"/>
+					<Scope Name="VC Accelerator Editor" ID="{EB56D0B5-BEE7-4D0C-8BE6-88A8ED256695}"/>
+					<Scope Name="Report Designer" ID="{CB3675B8-701E-4F56-9167-2714E167FF3F}"/>
+					<Scope Name="Workflow Designer" ID="{D4D9FCBC-B26A-4C41-AB9F-11FD2466829A}"/>
+					<Scope Name="Schema Compare" ID="{CE05A4C2-97F8-465F-9871-8AD72AAE6F20}"/>
+					<Scope Name="Diff Windows (AnkhSVN)" ID="{6E66DFC4-CB72-4023-BDF5-6B139DF2F19B}"/>
+					<Scope Name="Managed Resources Editor" ID="{FEA4DCC9-3645-44CD-92E7-84B55A16465C}"/>
+					<Scope Name="Table Designer" ID="{4194FEE5-6777-419F-A5FC-47A536DF1BDB}"/>
+					<Scope Name="Layer Diagram" ID="{305563E9-FDF9-485B-B73E-D9FEDCC36F2E}"/>
+					<Scope Name="HTML Editor Design View" ID="{CB3FCFEA-03DF-11D1-81D2-00A0C91BBEE3}"/>
+					<Scope Name="HTML Editor Source View" ID="{CB3FCFEB-03DF-11D1-81D2-00A0C91BBEE3}"/>
+					<Scope Name="VC Image Editor" ID="{C0BA70ED-069E-412B-9C06-7442E28A11B9}"/>
+					<Scope Name="Source Control Explorers (AnkhSVN)" ID="{FD4828F6-49A3-4E2F-BF36-8304884219CA}"/>
+					<Scope Name="XML Schema Designer" ID="{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}"/>
+					<Scope Name="Transact-SQL Editor" ID="{C5B506FB-13BA-4381-3A48-41275C4CA2B5}"/>
+				</ScopeDefinitions>
+				<DefaultShortcuts/>
+				<ShortcutsScheme/>
+				<UserShortcuts>
+					<RemoveShortcut Command="Edit.EmacsLineEnd" Scope="Global">Alt+'</RemoveShortcut>
+					<RemoveShortcut Command="Edit.DecreaseFilterLevel" Scope="Text Editor">Alt+,</RemoveShortcut>
+					<RemoveShortcut Command="Edit.UncommentSelection" Scope="Text Editor">Alt+N, Alt+U</RemoveShortcut>
+					<RemoveShortcut Command="Edit.DeleteToBOL" Scope="Text Editor">Alt+N, Alt+M</RemoveShortcut>
+					<RemoveShortcut Command="Edit.DeleteToEOL" Scope="Text Editor">Alt+N, Alt+M</RemoveShortcut>
+					<RemoveShortcut Command="Debug.Immediate" Scope="Global">Ctrl+Alt+I</RemoveShortcut>
+					<RemoveShortcut Command="Edit.IncreaseFilterLevel" Scope="Text Editor">Alt+.</RemoveShortcut>
+					<RemoveShortcut Command="Edit.ViewWhiteSpace" Scope="Text Editor">Ctrl+R, Ctrl+W</RemoveShortcut>
+					<RemoveShortcut Command="Edit.NextBookmark" Scope="Global">Ctrl+K, Ctrl+N</RemoveShortcut>
+					<RemoveShortcut Command="Edit.PreviousBookmark" Scope="Global">Ctrl+K, Ctrl+P</RemoveShortcut>
+					<RemoveShortcut Command="Edit.InsertSnippet" Scope="Global">Ctrl+K, Ctrl+X</RemoveShortcut>
+					<RemoveShortcut Command="{1496A755-94DE-11D0-8C3F-00C04FC2AAE2},565" Scope="Global">Ctrl+K, Ctrl+F</RemoveShortcut>
+					<RemoveShortcut Command="Edit.SurroundWith" Scope="Global">Ctrl+K, Ctrl+S</RemoveShortcut>
+					<RemoveShortcut Command="View.ClassViewGoToSearchCombo" Scope="Global">Ctrl+K, Ctrl+V</RemoveShortcut>
+					<RemoveShortcut Command="View.ObjectBrowserGoToSearchCombo" Scope="Global">Ctrl+K, Ctrl+R</RemoveShortcut>
+					<RemoveShortcut Command="View.BookmarkWindow" Scope="Global">Ctrl+K, Ctrl+W</RemoveShortcut>
+					<RemoveShortcut Command="Tools.CodeSnippetsManager" Scope="Global">Ctrl+K, Ctrl+B</RemoveShortcut>
+					<RemoveShortcut Command="Edit.LineDown" Scope="Global">Ctrl+K</RemoveShortcut>
+					<RemoveShortcut Command="Edit.BriefGoToNextErrorTag" Scope="Global">Alt+N, Alt+J</RemoveShortcut>
+					<RemoveShortcut Command="EditorContextMenus.CodeWindow.SendLineToInteractive" Scope="Text Editor">Alt+'</RemoveShortcut>
+					<RemoveShortcut Command="View.ObjectBrowser" Scope="Global">Ctrl+Alt+J</RemoveShortcut>
+					<RemoveShortcut Command="View.SolutionExplorer" Scope="Global">Ctrl+Alt+L</RemoveShortcut>
+					<RemoveShortcut Command="Edit.CharRight" Scope="Global">Ctrl+Alt+J</RemoveShortcut>
+					<RemoveShortcut Command="Debug.ParallelTasks" Scope="Global">Ctrl+Shift+D, K</RemoveShortcut>
+					<RemoveShortcut Command="Debug.ParallelStacks" Scope="Global">Ctrl+Shift+D, S</RemoveShortcut>
+					<RemoveShortcut Command="Edit.BreakLine" Scope="Text Editor">Shift+Enter</RemoveShortcut>
+					<RemoveShortcut Command="Edit.MoveLineUp" Scope="Global">Ctrl+Shift+Alt+Up Arrow, Ctrl+Shift+Alt+Up Arrow</RemoveShortcut>
+					<RemoveShortcut Command="Edit.MoveLineDown" Scope="Global">Ctrl+Shift+Alt+Down Arrow, Ctrl+Shift+Alt+Down Arrow</RemoveShortcut>
+					<RemoveShortcut Command="ReSharper_TextControl_Left" Scope="Global">Alt+J</RemoveShortcut>
+					<RemoveShortcut Command="FindInSolutionExplorer" Scope="Global">Alt+0</RemoveShortcut>
+					<RemoveShortcut Command="View.TrackActivityinSolutionExplorer" Scope="Global">Alt+0</RemoveShortcut>
+					<RemoveShortcut Command="Action.Add" Scope="Text Editor">Alt+0</RemoveShortcut>
+					<RemoveShortcut Command="Edit.GoToDeclaration" Scope="Text Editor">Alt+B</RemoveShortcut>
+					<RemoveShortcut Command="View.ViewDesigner" Scope="Text Editor">Alt+`</RemoveShortcut>
+					<RemoveShortcut Command="Data.SqlEditorResultsAsGrid" Scope="Transact-SQL Editor">Ctrl+Shift+D</RemoveShortcut>
+					<RemoveShortcut Command="View.Output" Scope="Global">Ctrl+Alt+O</RemoveShortcut>
+					<Shortcut Command="Edit.Delete" Scope="Global">Alt+M</Shortcut>
+					<Shortcut Command="Edit.LineUp" Scope="Global">Alt+I</Shortcut>
+					<Shortcut Command="Edit.LineDownExtend" Scope="Global">Shift+Alt+K</Shortcut>
+					<Shortcut Command="Edit.LineUpExtend" Scope="Global">Shift+Alt+I</Shortcut>
+					<Shortcut Command="Edit.LineEnd" Scope="Global">Alt+'</Shortcut>
+					<Shortcut Command="Edit.LineEndExtend" Scope="Global">Shift+Alt+'</Shortcut>
+					<Shortcut Command="Edit.LineStart" Scope="Global">Alt+H</Shortcut>
+					<Shortcut Command="Edit.LineStartExtend" Scope="Text Editor">Shift+Alt+H</Shortcut>
+					<Shortcut Command="Edit.LineOpenAbove" Scope="Text Editor">Alt+Enter</Shortcut>
+					<Shortcut Command="Edit.LineOpenBelow" Scope="Text Editor">Shift+Alt+Enter</Shortcut>
+					<Shortcut Command="Edit.GoToDefinition" Scope="Text Editor">Alt+G</Shortcut>
+					<Shortcut Command="Edit.PageUp" Scope="Global">Alt+8</Shortcut>
+					<Shortcut Command="Edit.PageUpExtend" Scope="Global">Shift+Alt+8</Shortcut>
+					<Shortcut Command="Edit.PageDown" Scope="Global">Alt+,</Shortcut>
+					<Shortcut Command="Edit.ToggleOutliningExpansion" Scope="Text Editor">Alt+N, Alt+N</Shortcut>
+					<Shortcut Command="Edit.CollapsetoDefinitions" Scope="Text Editor">Alt+N, Alt+O</Shortcut>
+					<Shortcut Command="Edit.ToggleAllOutlining" Scope="Text Editor">Alt+N, Alt+L</Shortcut>
+					<Shortcut Command="Edit.CommentSelection" Scope="Text Editor">Alt+N, Alt+C</Shortcut>
+					<Shortcut Command="Edit.UncommentSelection" Scope="Text Editor">Alt+N, Alt+V</Shortcut>
+					<Shortcut Command="Edit.GoToDefinition" Scope="Text Editor">Alt+O</Shortcut>
+					<Shortcut Command="Edit.DeleteToBOL" Scope="Table Designer">Alt+N, Alt+B</Shortcut>
+					<Shortcut Command="Edit.BriefWindowScrollUp" Scope="Text Editor">Alt+Y</Shortcut>
+					<Shortcut Command="Edit.ScrollLineDown" Scope="Global">Ctrl+Alt+K</Shortcut>
+					<Shortcut Command="Edit.ScrollLineUp" Scope="Global">Ctrl+Alt+I</Shortcut>
+					<Shortcut Command="Edit.PageDownExtend" Scope="Global">Shift+Alt+,</Shortcut>
+					<Shortcut Command="Edit.WordNext" Scope="Global">Alt+L</Shortcut>
+					<Shortcut Command="Edit.WordNextExtend" Scope="Global">Shift+Alt+L</Shortcut>
+					<Shortcut Command="Edit.WordPreviousExtend" Scope="Global">Shift+Alt+J</Shortcut>
+					<Shortcut Command="Window.CloseDocumentWindow" Scope="Global">Shift+Alt+.</Shortcut>
+					<Shortcut Command="View.NavigateBackward" Scope="Global">Shift+Alt+O</Shortcut>
+					<Shortcut Command="Edit.QuickInfo" Scope="Global">Alt+N, Alt+K</Shortcut>
+					<Shortcut Command="Edit.LineDown" Scope="Global">Alt+K</Shortcut>
+					<Shortcut Command="View.NextError" Scope="Global">Alt+N, Alt+J</Shortcut>
+					<Shortcut Command="EditorContextMenus.XAMLEditor.NavigatetoEventHandler" Scope="Global">Alt+N, Alt+H</Shortcut>
+					<Shortcut Command="Edit.CharRight" Scope="Global">Ctrl+Alt+L</Shortcut>
+					<Shortcut Command="Edit.CharLeft" Scope="Global">Ctrl+Alt+J</Shortcut>
+					<Shortcut Command="Edit.MoveLineUp" Scope="Text Editor">Alt+Up Arrow</Shortcut>
+					<Shortcut Command="Edit.MoveLineDown" Scope="Text Editor">Alt+Down Arrow</Shortcut>
+					<Shortcut Command="Edit.NextBookmarkInDocument" Scope="Global">Ctrl+K, Ctrl+N</Shortcut>
+					<Shortcut Command="Edit.WordPrevious" Scope="Global">Alt+J</Shortcut>
+					<Shortcut Command="Project.Syncitem" Scope="Global">Alt+0</Shortcut>
+					<Shortcut Command="Window.NextDocumentWindowNav" Scope="Global">Alt+B</Shortcut>
+					<Shortcut Command="Window.PreviousDocumentWindowNav" Scope="Global">Shift+Alt+B</Shortcut>
+					<Shortcut Command="View.ViewCode" Scope="HTML Editor Source View">Alt+`</Shortcut>
+					<Shortcut Command="View.ViewMarkup" Scope="Text Editor">Alt+`</Shortcut>
+					<Shortcut Command="Edit.LineDownExtendColumn" Scope="Global">Ctrl+Shift+Alt+K</Shortcut>
+					<Shortcut Command="Edit.LineUpExtendColumn" Scope="Global">Ctrl+Shift+Alt+I</Shortcut>
+					<Shortcut Command="Edit.CharLeftExtendColumn" Scope="Global">Ctrl+Shift+Alt+J</Shortcut>
+					<Shortcut Command="Edit.CharRightExtendColumn" Scope="Global">Ctrl+Shift+Alt+L</Shortcut>
+					<Shortcut Command="Tools.Options" Scope="Global">Alt+W</Shortcut>
+					<Shortcut Command="RedGate.SQLPrompt.VSUI.Connect2010.TogglePromptEnable" Scope="Transact-SQL Editor">Ctrl+Shift+P</Shortcut>
+					<Shortcut Command="RedGate.SQLPrompt.VSUI.Connect2010.LayOutSQL" Scope="Transact-SQL Editor">Ctrl+K, Ctrl+Y</Shortcut>
+					<Shortcut Command="RedGate.SQLPrompt.VSUI.Connect2010.LayOutSQL" Scope="Transact-SQL Editor">Ctrl+B, Ctrl+L</Shortcut>
+					<Shortcut Command="RedGate.SQLPrompt.VSUI.Connect2010.UppercaseKeywords" Scope="Transact-SQL Editor">Ctrl+B, Ctrl+U</Shortcut>
+					<Shortcut Command="RedGate.SQLPrompt.VSUI.Connect2010.ExpandWildcards" Scope="Transact-SQL Editor">Ctrl+B, Ctrl+W</Shortcut>
+					<Shortcut Command="RedGate.SQLPrompt.VSUI.Connect2010.QualifyObjects" Scope="Transact-SQL Editor">Ctrl+B, Ctrl+Q</Shortcut>
+					<Shortcut Command="RedGate.SQLPrompt.VSUI.Connect2010.FindUnusedVariables" Scope="Transact-SQL Editor">Ctrl+B, Ctrl+F</Shortcut>
+					<Shortcut Command="RedGate.SQLPrompt.VSUI.Connect2010.SummarizeScript" Scope="Transact-SQL Editor">Ctrl+B, Ctrl+S</Shortcut>
+					<Shortcut Command="RedGate.SQLPrompt.VSUI.Connect2010.RefreshCache" Scope="Transact-SQL Editor">Ctrl+Shift+D</Shortcut>
+					<Shortcut Command="EditorContextMenus.CodeWindow.GoToView" Scope="Global">Ctrl+Alt+O</Shortcut>
+				</UserShortcuts>
+			</KeyboardShortcuts>
+		</Category>
+		<Category name="Environment_FontsAndColors" Category="{1EDA5DD4-927A-43a7-810E-7FD247D0DA1D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_FontsAndColors" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="Version">2</PropertyValue>
+			<FontsAndColors Version="2.0">
+				<Categories>
+					<Category GUID="{00CCEE86-3140-4E06-A65A-A92665A40D6F}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{2E5C7FFD-9738-4A39-9816-B10231B82AE6}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SelectedText" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="InactiveText" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="DesignerSurface" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="LinkLabel" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ElementTitle" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="NonElementTitle" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Grid" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="GridHead" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="TagType" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{34F54DB8-3D69-4D94-ABD5-BA1D717AB8BE}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{3FFB3681-9B54-42B2-81D5-52453ADF56A6}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Surface" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="LinkLabel" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Shape" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ShapeTitle" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SelectedShapeTitle" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ActiveShapeTitle" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SelectedShapeBorder" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ShapeBorder" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Grid" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="RelationLine" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="RelationLabel" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SelectedRelationLine" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{40660F54-80FA-4375-89A3-8D06AA954EBA}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Plain Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{45E05167-BEFE-482D-8B9B-0C329EC847DF}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{47724E70-AF55-48FB-A928-BB161C1D0C05}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Indicator Margin" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Line Numbers" Foreground="0x00AF912B" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Visible White Space" Foreground="0x00AF912B" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Brace Matching (Highlight)" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Breakpoint (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Breakpoint - Advanced (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Breakpoint - Mapped (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Code Snippet Field" Foreground="0x02000000" Background="0x00B4E4B4" BoldFont="No"/>
+							<Item Name="Coverage Not Touched Area" Foreground="0x00000000" Background="0x00A580E6" BoldFont="No"/>
+							<Item Name="Coverage Partially Touched Area" Foreground="0x00000000" Background="0x00F9D2BF" BoldFont="No"/>
+							<Item Name="Coverage Touched Area" Foreground="0x00000000" Background="0x00B4E4B4" BoldFont="No"/>
+							<Item Name="CSS Comment" Foreground="0x01000005" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS Keyword" Foreground="0x0100000F" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS Property Name" Foreground="0x0100000C" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS Property Value" Foreground="0x0100000F" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS Selector" Foreground="0x001515A3" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS String Value" Foreground="0x0100000F" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Current List Location" Foreground="0x00A3DBFF" Background="0x01000007" BoldFont="No"/>
+							<Item Name="HTML Attribute" Foreground="0x0100000C" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Attribute Value" Foreground="0x0100000F" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Comment" Foreground="0x01000005" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Element Name" Foreground="0x001515A3" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Entity" Foreground="0x0100000C" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Operator" Foreground="0x0100000F" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Server-Side Script" Foreground="0x00000000" Background="0x0062EEFF" BoldFont="No"/>
+							<Item Name="HTML Tag Delimiter" Foreground="0x0100000F" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Refactoring Current Field" Foreground="0x02000000" Background="0x00B4E4B4" BoldFont="No"/>
+							<Item Name="Stale Code" Foreground="0x00951795" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Tracepoint (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint (Enabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint (Error)" Foreground="0x00A3DBFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint (Warning)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Advanced (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Advanced (Enabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Advanced (Error)" Foreground="0x00A3DBFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Advanced (Warning)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Mapped (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Mapped (Enabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Mapped (Error)" Foreground="0x00A3DBFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Mapped (Warning)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Warning Lines Path" Foreground="0x00A50000" Background="0x0062EEFF" BoldFont="No"/>
+							<Item Name="XML CData Section" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XSLT Keyword" Foreground="0x00AF918F" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{4C889E8A-2BBB-4DC8-AE21-B1E4799D7631}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Diagram Background" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Table Title Bar" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{5C48B2CB-0366-4FBF-9786-0BB37E945687}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Current List Location" Foreground="0x00A3DBFF" Background="0x01000007" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{6BB65C5A-2F31-4BDE-9F48-8A38DC0C63E7}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{9973EFDF-317D-431C-8BC1-5E88CBFD4F7F}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Plain Text" Foreground="0x0000FF00" Background="0x00000000" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Current List Location" Foreground="0x00A3DBFF" Background="0x01000007" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{9E632E6E-D786-4F9A-8D3E-B9398836C784}" FontName="Consolas" FontSize="14" CharSet="0" FontIsDefault="No">
+						<Items>
+							<Item Name="Plain Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontName="Consolas" FontSize="11" CharSet="0" FontIsDefault="No">
+						<Items>
+							<Item Name="Plain Text" Foreground="0x00FFFFFF" Background="0x00000000" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Indicator Margin" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Line Numbers" Foreground="0x00AF912B" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Visible White Space" Foreground="0x00AF912B" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Brace Matching (Highlight)" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x005C5C5C" BoldFont="No"/>
+							<Item Name="Breakpoint (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Breakpoint - Advanced (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Breakpoint - Mapped (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Code Snippet Dependent Field" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Code Snippet Field" Foreground="0x02000000" Background="0x00800080" BoldFont="No"/>
+							<Item Name="Collapsible Text" Foreground="0x00C0C0C0" Background="0x01000003" BoldFont="No"/>
+							<Item Name="outlining.collapsehintadornment" Foreground="0x00E8DDD7" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Comment" Foreground="0x00808080" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Coverage Not Touched Area" Foreground="0x00000000" Background="0x00A580E6" BoldFont="No"/>
+							<Item Name="Coverage Partially Touched Area" Foreground="0x00000000" Background="0x00F9D2BF" BoldFont="No"/>
+							<Item Name="Coverage Touched Area" Foreground="0x00000000" Background="0x00B4E4B4" BoldFont="No"/>
+							<Item Name="CSS Comment" Foreground="0x00FFFF00" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS Keyword" Foreground="0x00BEF4FC" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS Property Name" Foreground="0x00BEF4FC" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS Property Value" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS Selector" Foreground="0x00BEF4FC" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CSS String Value" Foreground="0x00FFFF00" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Current List Location" Foreground="0x00A3DBFF" Background="0x01000007" BoldFont="No"/>
+							<Item Name="Current Statement" Foreground="0x00000000" Background="0x0064BCE8" BoldFont="No"/>
+							<Item Name="Executing Thread IP" Foreground="0x00000000" Background="0x0064BCE8" BoldFont="No"/>
+							<Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x02000000" Background="0x005C5C5C" BoldFont="No"/>
+							<Item Name="HTML Attribute" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Attribute Value" Foreground="0x005CC2A5" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Comment" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Element Name" Foreground="0x0064BCE8" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Entity" Foreground="0x003278CC" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Operator" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Server-Side Script" Foreground="0x00BB9768" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Tag Delimiter" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Keyword" Foreground="0x003278CC" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Number" Foreground="0x00BB9768" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Preprocessor Keyword" Foreground="0x003248DA" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Razor Code" Foreground="0x02000000" Background="0x002A2A2A" BoldFont="No"/>
+							<Item Name="Refactoring Current Field" Foreground="0x02000000" Background="0x00B4E4B4" BoldFont="No"/>
+							<Item Name="Refactoring Dependent Field" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script Keyword" Foreground="0x003278CC" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script String" Foreground="0x005CC2A5" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Stale Code" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="No"/>
+							<Item Name="String" Foreground="0x005CC2A5" Background="0x02000000" BoldFont="No"/>
+							<Item Name="String(C# @ Verbatim)" Foreground="0x005CC2A5" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Task List Shortcut" Foreground="0x00FFFFFF" Background="0x0100000F" BoldFont="No"/>
+							<Item Name="Text" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Tracepoint (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint (Enabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint (Error)" Foreground="0x00A3DBFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint (Warning)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Advanced (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Advanced (Enabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Advanced (Error)" Foreground="0x00A3DBFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Advanced (Warning)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Mapped (Disabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Mapped (Enabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Mapped (Error)" Foreground="0x00A3DBFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="Tracepoint - Mapped (Warning)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
+							<Item Name="urlformat" Foreground="0x005B7AC4" Background="0x02000000" BoldFont="No"/>
+							<Item Name="User Types" Foreground="0x006DC6FF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="User Types(Delegates)" Foreground="0x00BB9768" Background="0x02000000" BoldFont="No"/>
+							<Item Name="User Types(Enums)" Foreground="0x00BB9768" Background="0x02000000" BoldFont="No"/>
+							<Item Name="User Types(Interfaces)" Foreground="0x00BB9768" Background="0x02000000" BoldFont="No"/>
+							<Item Name="User Types(Value types)" Foreground="0x00BB9768" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Warning Lines Path" Foreground="0x00A50000" Background="0x0062EEFF" BoldFont="No"/>
+							<Item Name="XAML Attribute" Foreground="0x0064BCE8" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Attribute Quotes" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Attribute Value" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML CData Section" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Comment" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Delimiter" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Keyword" Foreground="0x0064BCE8" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Markup Extension Class" Foreground="0x003248DA" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Markup Extension Parameter Name" Foreground="0x003248DA" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Markup Extension Parameter Value" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Name" Foreground="0x0064BCE8" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Text" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Attribute" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Attribute Quotes" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Attribute Value" Foreground="0x005CC2A5" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML CData Section" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Comment" Foreground="0x00C0C0C0" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Delimiter" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Keyword" Foreground="0x0064BCE8" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Name" Foreground="0x003278CC" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Text" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XSLT Keyword" Foreground="0x00AF918F" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{CE2ECED5-C21C-464C-9B45-15E10E9F9EF9}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Plain Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{EE1BE240-4E81-4BEB-8EEA-54322B6B1BF5}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{F9D6BCE6-C669-41DB-8EE7-DD953828685B}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+				</Categories>
+			</FontsAndColors>
+		</Category>
+	</Category>
+</UserSettings>
